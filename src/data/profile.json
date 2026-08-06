@@ -1,0 +1,18 @@
+{
+  "name": "Yadhu Krishna NM",
+  "title": "AI Engineer & Full-Stack Developer",
+  "tagline": "Building intelligent systems at the intersection of AI, computer vision, and elegant engineering.",
+  "photo": "https://drive.google.com/thumbnail?id=1y6djv3PQnsFYkNxxQu2-YjuFrkSKivke&sz=w1000",
+  "resumeUrl": "/assets/resume.pdf",
+  "bio": [
+    "I'm a second-year BCA student with a strong interest in artificial intelligence, machine learning, computer vision, and software development, building systems that feel natural, interactive, and human-centered.",
+    "My primary project is Aira, an emotionally intelligent AI assistant with real-time 3D avatars and conversational capabilities, alongside computer-vision systems and AI-driven applications engineered end to end.",
+    "I care about thoughtful engineering as much as technical capability: every system I build is designed to run efficiently on constrained hardware, and every interface is crafted to deliver meaningful experiences."
+  ],
+  "location": "Bengaluru, India",
+  "photos": [
+    "https://drive.google.com/thumbnail?id=1QgIeOM8d8FyS3xmXrobX58miVLlRMDNi&sz=w1000",
+    "https://drive.google.com/thumbnail?id=11Po-i9c8kgvzKHvmKPqY-sFpI08qiZPw&sz=w1000",
+    "https://drive.google.com/thumbnail?id=11Po-i9c8kgvzKHvmKPqY-sFpI08qiZPw&sz=w1000"
+  ]
+}

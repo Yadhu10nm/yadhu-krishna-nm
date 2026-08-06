@@ -1,0 +1,38 @@
+[
+  { "name": "Python", "category": "Languages", "proficiency": 92 },
+  { "name": "Java", "category": "Languages", "proficiency": 65 },
+  { "name": "C", "category": "Languages", "proficiency": 65 },
+  { "name": "HTML", "category": "Frontend & Web", "proficiency": 75 },
+  { "name": "CSS", "category": "Frontend & Web", "proficiency": 75 },
+
+  { "name": "FastAPI", "category": "Backend & Data", "proficiency": 70 },
+  { "name": "MySQL", "category": "Backend & Data", "proficiency": 80 },
+  { "name": "Microsoft Excel", "category": "Backend & Data", "proficiency": 85 },
+  { "name": "Jupyter Notebook", "category": "Backend & Data", "proficiency": 90 },
+
+  { "name": "OpenCV", "category": "AI / ML", "proficiency": 75 },
+  { "name": "Artificial Intelligence (AI)", "category": "AI / ML", "proficiency": 85 },
+  { "name": "Machine Learning", "category": "AI / ML", "proficiency": 84 },
+  { "name": "Natural Language Processing (NLP)", "category": "AI / ML", "proficiency": 65 },
+  { "name": "Feature Engineering", "category": "AI / ML", "proficiency": 80 },
+  { "name": "Scikit-Learn", "category": "AI / ML", "proficiency": 82 },
+  { "name": "NumPy", "category": "AI / ML", "proficiency": 76 },
+  { "name": "Pandas", "category": "AI / ML", "proficiency": 80 },
+
+  { "name": "ChatGPT", "category": "LLMs & AI Tools", "proficiency": 92 },
+  { "name": "Claude", "category": "LLMs & AI Tools", "proficiency": 88 },
+  { "name": "OpenAI Codex", "category": "LLMs & AI Tools", "proficiency": 85 },
+  { "name": "Vibe Coding", "category": "LLMs & AI Tools", "proficiency": 90 },
+
+  { "name": "Git", "category": "Tools & Platforms", "proficiency": 75 },
+  { "name": "GitHub", "category": "Tools & Platforms", "proficiency": 85 },
+
+  { "name": "Problem Solving", "category": "Soft Skills", "proficiency": 88 },
+  { "name": "Leadership", "category": "Soft Skills", "proficiency": 82 },
+  { "name": "Communication", "category": "Soft Skills", "proficiency": 80 },
+  { "name": "Self Learning", "category": "Soft Skills", "proficiency": 95 },
+
+  { "name": "English", "category": "Languages Spoken", "proficiency": 90 },
+  { "name": "Hindi", "category": "Languages Spoken", "proficiency": 60 },
+  { "name": "Malayalam", "category": "Languages Spoken", "proficiency": 100 }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "aira",
+    "title": "AYRA \u2014 AI Companion",
+    "shortDescription": "An emotionally intelligent AI companion with a real-time 3D VRM avatar, voice, and memory.",
+    "description": "A full-stack AI companion system pairing a Three.js/VRM 3D avatar \u2014 with lip sync, blinking, and a bone-driven animation state machine \u2014 against a FastAPI backend running a local LLM. Speech is transcribed with Faster-Whisper and rendered back through TTS, with Malayalam-English translation via IndicTrans2. Engineered to run entirely on consumer hardware (RTX 3050, 6GB VRAM).",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm",
+    "demo": "https://www.instagram.com/reel/DZ1vtaDz_jY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "technologies": [
+      "Python",
+      "javascript",
+      "html",
+      "css",
+      "FastAPI",
+      "Three.js",
+      "Ollama",
+      "Faster-Whisper"
+    ]
+  },
+  {
+  "id": "gesture-car-control",
+  "title": "Gesture-Controlled Car System",
+  "shortDescription": "A computer-vision-based car control system that uses hand gestures to control vehicle movements in real time.",
+  "description": "A real-time gesture-controlled car system built using OpenCV, MediaPipe, and PyAutoGUI. The system tracks hand landmarks through a webcam and interprets different gestures as driving commands such as acceleration, braking, steering, and reversing. MediaPipe is used for accurate hand tracking, while OpenCV processes video frames and PyAutoGUI simulates keyboard inputs for controlling the vehicle in games or simulations.",
+  "preview": "",
+  "previewType": "video",
+  "github": "https://github.com/Yadhu10nm",
+  "demo": "https://www.instagram.com/reel/DTrytwoDNGV/",
+  "technologies": [
+    "Python",
+    "OpenCV",
+    "MediaPipe",
+    "PyAutoGUI",
+    "Computer Vision"
+    ]
+  },
+  {
+  "id": "virtual-calculator",
+  "title": "Virtual Calculator",
+  "shortDescription": "A gesture-controlled virtual calculator that performs mathematical operations using hand tracking and stack-based expression evaluation.",
+  "description": "An interactive virtual calculator built using OpenCV and MediaPipe that allows users to perform calculations using hand gestures. The system detects hand landmarks in real time and maps finger movements to virtual buttons displayed on the screen. Mathematical expressions are converted from infix notation to postfix notation using stack operations and then evaluated to generate the final result. The project combines computer vision with data structures to create a touch-free calculator experience.",
+  "preview": "",
+  "previewType": "video",
+  "github": "https://github.com/Yadhu10nm",
+  "demo": "https://www.instagram.com/reel/DSW-b0CDPGI/",
+  "technologies": [
+    "Python",
+    "OpenCV",
+    "MediaPipe",
+    "Data Structures",
+    "Stack",
+    "Infix to Postfix",
+    "Postfix Evaluation",
+    "Computer Vision"
+   ]
+  }
+]

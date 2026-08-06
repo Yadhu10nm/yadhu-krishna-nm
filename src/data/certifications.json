@@ -1,0 +1,47 @@
+[
+  {
+    "id": "python-adv",
+    "title": "Python: Beginner to Advanced",
+    "organization": "Codebasics",
+    "date": "2025",
+    "image": "https://drive.google.com/thumbnail?id=11Q_kCeQOPfh0EUiJGEy8s2u79jMtov86&sz=w1000",
+    "description": "A comprehensive program covering Python fundamentals through advanced topics including OOP, file handling, and data structures.",
+    "credentialUrl": ""
+  },
+  {
+    "id": "ml-udemy",
+    "title": "Complete Machine Learning with Python",
+    "organization": "Udemy",
+    "date": "2025",
+    "image": "https://drive.google.com/thumbnail?id=1ilDlXze3WahRaQrWb-XAwby7jttJWSnn&sz=w1000",
+    "description": "End-to-end machine learning course covering regression, classification, clustering, and model evaluation using Python.",
+    "credentialUrl": ""
+  },
+  {
+    "id": "dsa-nptel",
+    "title": "Programming, Data Structures and Algorithms using Python",
+    "organization": "NPTEL",
+    "date": "2025",
+    "image": "https://drive.google.com/thumbnail?id=1rfFfBWqdjVgScEbrYics2w-kyunNdLhE&sz=w1000",
+    "description": "A rigorous academic course on core data structures and algorithmic problem solving, delivered in Python.",
+    "credentialUrl": ""
+  },
+  {
+    "id": "excel-mos",
+    "title": "Microsoft Office Specialist: Excel 2019",
+    "organization": "Microsoft",
+    "date": "2025",
+    "image": "https://drive.google.com/thumbnail?id=1aX9CL57KcE1prNekCT8ZmASHm1Q8a7pG&sz=w1000",
+    "description": "Certified proficiency in advanced Excel functions, data analysis, and spreadsheet automation.",
+    "credentialUrl": ""
+  },
+  {
+    "id": "hackerrank-ps",
+    "title": "Problem Solving (Basic)",
+    "organization": "HackerRank",
+    "date": "2025",
+    "image": "https://drive.google.com/thumbnail?id=15kxOk3viPshAQb4U5FQY_N2jN1V9HBCV&sz=w1000",
+    "description": "Verified certification in foundational algorithmic problem solving and logical reasoning.",
+    "credentialUrl": ""
+  }
+]
