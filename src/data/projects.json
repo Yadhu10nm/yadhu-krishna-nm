@@ -55,5 +55,214 @@
     "Postfix Evaluation",
     "Computer Vision"
    ]
+  },
+  {
+    "id": "snake-game-controlling-using-hand-gesture",
+    "title": "Snake Game — Hand Gesture Control",
+    "shortDescription": "A Snake game controlled using real-time hand gestures.",
+    "description": "A computer-vision based Snake game where hand gestures are used to control the movement of the snake in real time.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Snake-game-controlling-using-hand-gesture",
+    "demo": "https://github.com/Yadhu10nm/Snake-game-controlling-using-hand-gesture",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "virtual-drawing",
+    "title": "Virtual Drawing",
+    "shortDescription": "A virtual drawing application controlled through hand gestures.",
+    "description": "A computer-vision project that allows users to draw digitally using hand movements captured through a camera.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Virtual-Drawing",
+    "demo": "https://github.com/Yadhu10nm/Virtual-Drawing",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "restaurant-management-system",
+    "title": "Restaurant Management System",
+    "shortDescription": "A Python-based system for managing restaurant operations.",
+    "description": "A restaurant management project designed to handle common restaurant operations through a simple software interface.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/-Restaurant-Management-System-",
+    "demo": "https://github.com/Yadhu10nm/-Restaurant-Management-System-",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "gesture-controlled-hill-climb-racing",
+    "title": "Gesture Controlled Hill Climb Racing",
+    "shortDescription": "A Hill Climb Racing game controlled using hand gestures.",
+    "description": "A computer-vision based game project that uses hand gestures as an alternative control mechanism for playing Hill Climb Racing.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/gesture_controlled_hill_climb_racing",
+    "demo": "https://github.com/Yadhu10nm/gesture_controlled_hill_climb_racing",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "rock-paper-scissor",
+    "title": "Rock Paper Scissor",
+    "shortDescription": "A Python implementation of the classic Rock Paper Scissors game.",
+    "description": "A simple interactive implementation of the classic Rock Paper Scissors game.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/ROCK_PAPER_SCISSOR",
+    "demo": "https://github.com/Yadhu10nm/ROCK_PAPER_SCISSOR",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "weather-app",
+    "title": "Weather App",
+    "shortDescription": "A Python weather application for retrieving weather information.",
+    "description": "A weather application built with Python that retrieves and presents weather information to the user.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/weather_app",
+    "demo": "https://github.com/Yadhu10nm/weather_app",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "expense-tracking-system",
+    "title": "Expense Tracking System",
+    "shortDescription": "A Python application for tracking and managing personal expenses.",
+    "description": "An expense management project designed to record, organize, and track financial expenses.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/expense_tracking_system",
+    "demo": "https://github.com/Yadhu10nm/expense_tracking_system",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "bengaluru-house-price-prediction",
+    "title": "Bengaluru House Price Prediction",
+    "shortDescription": "A machine learning model for predicting Bengaluru house prices using linear regression.",
+    "description": "A machine learning project that analyzes Bengaluru housing data and predicts house prices using a linear regression approach.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Bengaluru_house_price_prediction",
+    "demo": "https://github.com/Yadhu10nm/Bengaluru_house_price_prediction",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "titanic-survival-prediction",
+    "title": "Titanic Survival Prediction",
+    "shortDescription": "A machine learning project for predicting passenger survival on the Titanic.",
+    "description": "A machine learning project that analyzes passenger information from the Titanic dataset to predict survival outcomes.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Titanic_Survival_prediction",
+    "demo": "https://github.com/Yadhu10nm/Titanic_Survival_prediction",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "exploratory-data-analysis",
+    "title": "Exploratory Data Analysis",
+    "shortDescription": "A data analysis project focused on exploring and understanding datasets.",
+    "description": "A practical exploratory data analysis project involving dataset inspection, data understanding, and analysis of patterns and relationships.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Exploratory_data_analysis",
+    "demo": "https://github.com/Yadhu10nm/Exploratory_data_analysis",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "test-to-speech-with-ocr",
+    "title": "Text to Speech with OCR",
+    "shortDescription": "An OCR-based Python project that converts recognized text into speech.",
+    "description": "A computer-vision and accessibility-oriented project that extracts text from images using OCR and converts the extracted text into speech.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/Test_to_speech_with_OCR",
+    "demo": "https://github.com/Yadhu10nm/Test_to_speech_with_OCR",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "heart-disease-prediction",
+    "title": "Heart Disease Prediction",
+    "shortDescription": "A machine learning project for predicting heart disease from medical data.",
+    "description": "A machine learning project that analyzes health-related features and builds a model to predict the likelihood of heart disease.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/heart_disease_prediction",
+    "demo": "https://github.com/Yadhu10nm/heart_disease_prediction",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "gesture-based-snake-game",
+    "title": "Gesture Based Snake Game",
+    "shortDescription": "A Snake game controlled using hand gestures.",
+    "description": "A computer-vision project that combines gesture recognition with a Snake game to provide gesture-based gameplay.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/gesture_based_snake_game",
+    "demo": "https://github.com/Yadhu10nm/gesture_based_snake_game",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "gesture-draw",
+    "title": "Gesture Draw",
+    "shortDescription": "A computer-vision drawing application controlled through hand gestures.",
+    "description": "A gesture-based drawing project that allows users to create digital drawings through real-time hand movement tracking.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/gesture_draw",
+    "demo": "https://github.com/Yadhu10nm/gesture_draw",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "volume-and-brightness-control",
+    "title": "Volume and Brightness Control Using Computer Vision",
+    "shortDescription": "A computer-vision utility for controlling system volume and brightness with hand gestures.",
+    "description": "A Python computer-vision project that uses hand gestures to interact with system controls such as volume and screen brightness.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/volume_and_brightness_control_using_cv_and_mediapipe",
+    "demo": "https://github.com/Yadhu10nm/volume_and_brightness_control_using_cv_and_mediapipe",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "voice-based-led-control",
+    "title": "Voice Based LED Control",
+    "shortDescription": "A voice-controlled system for operating LEDs.",
+    "description": "A Python project that uses voice commands to control LED output and demonstrates voice-based hardware interaction.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/voice_based_LED_control",
+    "demo": "https://github.com/Yadhu10nm/voice_based_LED_control",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "opencv-x-mediapipe",
+    "title": "OpenCV × MediaPipe",
+    "shortDescription": "A computer-vision project exploring OpenCV and MediaPipe.",
+    "description": "A Python computer-vision project combining OpenCV and MediaPipe for real-time vision and human interaction experiments.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/opencv_X_mediapipe",
+    "demo": "https://github.com/Yadhu10nm/opencv_X_mediapipe",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "ml-model-for-tumor-prediction",
+    "title": "ML Model for Tumor Prediction",
+    "shortDescription": "A machine learning model for tumor prediction.",
+    "description": "A machine learning project that processes medical dataset features to build a model for tumor prediction.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/ML_MODEL_FOR_TUMOR_PREDICTION",
+    "demo": "https://github.com/Yadhu10nm/ML_MODEL_FOR_TUMOR_PREDICTION",
+    "technologies": ["Python"]
+  },
+  {
+    "id": "facenet-face-detection",
+    "title": "FaceNet Face Detection",
+    "shortDescription": "A computer-vision project exploring FaceNet-based face detection.",
+    "description": "A Python computer-vision project focused on face detection and facial analysis using FaceNet-related techniques.",
+    "preview": "",
+    "previewType": "video",
+    "github": "https://github.com/Yadhu10nm/faceNet_face_detection",
+    "demo": "https://github.com/Yadhu10nm/faceNet_face_detection",
+    "technologies": ["Python"]
   }
 ]
